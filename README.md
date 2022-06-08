@@ -10,7 +10,7 @@ Mercado interno. Mayores de 18 años. Segmento premium.
 
 Integrantes del grupo:
 
-Marcos García Olivar Tengo 51 años. Me gusta escuchar todo tipo de música y aprovechar mis tiempos de para navegar. Siempre me intereso la programacion por eso me decidi a hacer el curso de Digital. Quiero aprender todo respecto al desarrollo web y despues ver en que seguir profundizando. Aprender nuevos lenguajes de programacion seria una buena opcion.
+Marcos García Olivar Tengo 51 años. Me gusta escuchar todo tipo de música y aprovechar mis tiempos libres para navegar. Siempre me intereso la programacion por eso me decidi a hacer el curso de Digital. Quiero aprender todo respecto al desarrollo web y despues ver en que seguir profundizando. Aprender nuevos lenguajes de programacion seria una buena opcion.
 
 Agustín Donato, Jhon Mejía Alvarez y Matías Logascio
 

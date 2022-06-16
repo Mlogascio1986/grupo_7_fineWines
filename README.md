@@ -12,7 +12,9 @@ Integrantes del grupo:
 
 Marcos García Oliver: Tengo 51 años. Me gusta escuchar todo tipo de música y aprovechar mis tiempos libres para navegar. Siempre me intereso la programacion por eso me decidi a hacer el curso de Digital. Quiero aprender todo respecto al desarrollo web y despues ver en que seguir profundizando. Aprender nuevos lenguajes de programacion seria una buena opcion.
 
-Agustín Donato, Jhon Mejía Alvarez y 
+Agustín Donato, 
+
+Jhon Mejía Alvarez: tengo 15. me gusta la musica y los deportes
 
 Matías Logascio: Tengo 35 años, Ing. industrial, me gustan los deportes y las manualidades.
 

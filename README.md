@@ -12,7 +12,7 @@ Integrantes del grupo:
 
 Marcos García Oliver: Tengo 51 años. Me gusta escuchar todo tipo de música y aprovechar mis tiempos libres para navegar. Siempre me intereso la programacion por eso me decidi a hacer el curso de Digital. Quiero aprender todo respecto al desarrollo web y despues ver en que seguir profundizando. Aprender nuevos lenguajes de programacion seria una buena opcion.
 
-Agustín Donato: Se mucho de nada y un poco de todo, me gustan los deportes, las manualidades y las bicicletas.
+Agustín Donato: Soy de CABA, me gusta cocinar, hacer manualidades y practicar deportes. Me encantan las biciletas y hacer cicloturismo.
 
 Jhon Mejía Alvarez: tengo 15. me gusta la musica y los deportes
 
@@ -40,5 +40,8 @@ Buena home de presentación empresarial/ corporativa
 
 https://www.blackwine.com.ar/
 
+Nos interesaron las miniaturas como asi el detalle de producto, sumado a la tematica en negro.
+
 https://viners.com.ar/
 
+La barra de busqueda nos resultó atractiva debido a las opciones que nos ofrece, el sitio es muy intuitivo.

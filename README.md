@@ -45,3 +45,5 @@ Nos interesaron las miniaturas como asi el detalle de producto, sumado a la tema
 https://viners.com.ar/
 
 La barra de busqueda nos resultó atractiva debido a las opciones que nos ofrece, el sitio es muy intuitivo.
+
+https://trello.com/invite/b/YzDmkwff/79ce09e24b0f811f488643dc351a4797/e-commerce-digital-house
